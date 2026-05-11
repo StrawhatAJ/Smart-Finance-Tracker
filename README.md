@@ -22,4 +22,4 @@ A Django-based finance tracking web app with a REST API.
    python manage.py migrate
 
 6. Start the server
-   python manage.py runserver""# Smart-Finance-Tracker" 
+   python manage.py runserver
