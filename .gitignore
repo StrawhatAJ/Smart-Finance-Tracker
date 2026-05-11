@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Database (contains your local test data)
+db.sqlite3
+*.sqlite3
+
+# Secret keys and environment variables — NEVER commit this
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
