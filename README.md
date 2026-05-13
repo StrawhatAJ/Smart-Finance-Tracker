@@ -23,3 +23,6 @@ A Django-based finance tracking web app with a REST API.
 
 6. Start the server
    python manage.py runserver
+
+## Status
+Currently in development: User Authentication and Deployment in progress.
